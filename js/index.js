@@ -76,7 +76,7 @@
 			<div class="bg"></div>
 			<div class="logo1">
 				<div class="logoImg">
-					<img src="../img/load/logo.png">
+					<img src="./img/load/logo.png">
 				</div>
 				<p class="logoText">已加载 <span>0</span>%</p>
 			</div>

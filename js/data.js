@@ -1,5 +1,6 @@
 var imgMenu = {
 	logo:[
+	    "./img/load/logo.png",
 		"./img/load/logo2.png",
 		"./img/load/logo3.png",
 		"./img/load/logo4.png"
